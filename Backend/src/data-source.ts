@@ -7,7 +7,7 @@ export const AppDataSource = new DataSource({
   host: "db.ygnfxgexfxtcgbpfadxk.supabase.co",
   port: 5432,
   username: "postgres",
-  password: "deEw8vHAVb#$JZb",
+  password: "deEw8vH",
   database: "postgres",
   synchronize: true,
   logging: false,
